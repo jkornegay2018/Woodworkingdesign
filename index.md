@@ -1,2 +1,3 @@
 #                             WOODWORKING
-##                             About myself
+##                    Two types of methods used to design  
+
