@@ -1,5 +1,6 @@
   
-# **WOODWORKING**
+# **WOODWORKING**  
+![table](table.jpg)
   
 ## Two types of methods used to design  
 
