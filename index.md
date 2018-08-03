@@ -6,6 +6,5 @@
 
 ---
 
-1. **Traditional**  
-1. **Using CAD**
+**Traditional**  **Using CAD**
 
