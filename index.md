@@ -6,20 +6,9 @@
 ---
  
 ## ***DESIGN***  
-![chest](chest.jpg)![table](table2.jpg)   
-T     M
+![chest](chest.jpg)![table](table2.jpg)  
+### THERE ARE TWO METHODS USED TO DESIGN:
 
-W     E
-
-O     T
-
-      H
-      
-      O
-      
-      D
-      
-      S
 
 
 
