@@ -1,11 +1,11 @@
   
 # **WOODWORKING**  
-![wood](woodwork.jpg)![layout](Layout2.jpg) 
+![wood](woodwork.jpg)![layout](Layout2.jpg)
+
 ---  
 ---
  
+## ***DESIGN***
 
 
-
-# *Traditional method or Using CAD*
 
