@@ -6,11 +6,20 @@
 ---
  
 ## ***DESIGN***  
-![chest](chest.jpg)![table](table2.jpg) T
+![chest](chest.jpg)![table](table2.jpg)   
+T     M
 
-W
+W     E
 
-O
+O     T
+
+      H
+      
+      O
+      
+      D
+      
+      S
 
 
 
