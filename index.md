@@ -2,7 +2,7 @@
 # **WOODWORKING**  
 ![wood](woodwork.jpg) 
   
-## Two types of methods used to design  
+## Two types of methods used to design:  
 
 ---
 
