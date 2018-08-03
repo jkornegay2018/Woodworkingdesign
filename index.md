@@ -6,5 +6,5 @@
 
 ---
 
-# *Traditional / Using CAD*
+# *Traditional method or Using CAD*
 
