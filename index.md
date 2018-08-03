@@ -1,1 +1,2 @@
-#                             WOODWORKING
+#                             WOODWORKINGDESIGN
+##                             About myself
