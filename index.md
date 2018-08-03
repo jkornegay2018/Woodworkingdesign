@@ -1,12 +1,7 @@
-ver 1
-
-<center>
   
 # **WOODWORKING**
   
 ## Two types of methods used to design  
-
-</center>
 
 ---
 
