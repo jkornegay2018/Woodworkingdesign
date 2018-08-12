@@ -12,10 +12,12 @@
  
 ## ***DESIGN***  
 ![chest](chest.jpg)![table](table2.jpg)  
+---
 ## On this webpage I will compare the two different types of how to design furniture.
 ### Placed below are the links the different types that are used:  
 1. [Tradional](traditional.md)  
-1. [Using CAD](usingcad.md)
+1. [Using CAD](usingcad.md)  
+---
 
 
 
