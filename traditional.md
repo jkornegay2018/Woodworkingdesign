@@ -14,5 +14,6 @@ to slow down. I am able to set the drafting table up in my shop and not stress
 that dust and debri will mess up the paper or have any effect on a machine  
 loosing my drawings. Being able to set up in your shop puts all your projects in  
 one central location.  
-![drafting](drafting table artist.jpg)
+![drafting](drafting table artist.jpg)  
+
 [Back to homepage](index.md)
