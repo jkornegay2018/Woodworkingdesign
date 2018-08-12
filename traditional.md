@@ -5,5 +5,6 @@
 1. ***drafting table***
 1. ***pencil***  
 1. ***straight edge***  
-![cost](cost.jpg)
+![cost](cost.jpg)  
+### Estimate = $210.00
 
