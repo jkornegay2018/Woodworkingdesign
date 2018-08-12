@@ -4,5 +4,6 @@
 ## Tools required for this method:  
 1. ***drafting table***
 1. ***pencil***  
-1. ***straight edge***
+1. ***straight edge***  
+![cost](cost.jpg)
 
