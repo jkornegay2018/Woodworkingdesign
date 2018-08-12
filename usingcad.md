@@ -5,7 +5,8 @@
 1. Computer  
 1. Table  
 1. CAD Software Program  
-![cost](cost.jpg)
+![cost](cost.jpg)  
+## Estimate = $1300.00
 
 [Back to homepage](index.md)
 
