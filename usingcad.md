@@ -5,6 +5,7 @@
 1. Computer  
 1. Table  
 1. CAD Software Program  
+![cost](cost.jpg)
 
 [Back to homepage](index.md)
 
